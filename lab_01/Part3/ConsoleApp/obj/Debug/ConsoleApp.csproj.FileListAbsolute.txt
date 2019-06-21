@@ -1,0 +1,14 @@
+E:\UNIVER\OS\LAB1\Part3\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\UNIVER\OS\LAB1\Part3\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\UNIVER\OS\LAB1\Part3\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\UNIVER\OS\LAB1\Part3\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\UNIVER\OS\LAB1\Part3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\UNIVER\OS\LAB1\Part3\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\UNIVER\OS\LAB1\Part3\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\UNIVER\OS\lab_01\Part3\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\UNIVER\OS\lab_01\Part3\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\UNIVER\OS\lab_01\Part3\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\UNIVER\OS\lab_01\Part3\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\UNIVER\OS\lab_01\Part3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\UNIVER\OS\lab_01\Part3\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\UNIVER\OS\lab_01\Part3\ConsoleApp\obj\Debug\ConsoleApp.pdb

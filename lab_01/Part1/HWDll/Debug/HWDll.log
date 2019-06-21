@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  HWDll.cpp
+  Создание кода...
+     Создается библиотека E:\UNIVER\OS\LAB1\Part1\Debug\HWDll.lib и объект E:\UNIVER\OS\LAB1\Part1\Debug\HWDll.exp
+  HWDll.vcxproj -> E:\UNIVER\OS\LAB1\Part1\Debug\HWDll.dll
